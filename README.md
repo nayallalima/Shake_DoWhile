@@ -1,3 +1,3 @@
-# Skake_DoWhile
+# Shake_DoWhile
 
 ![](./pictures/MoveIt.jpg)
