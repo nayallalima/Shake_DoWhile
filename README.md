@@ -1,7 +1,6 @@
 <h1 align="center"> Shake_DoWhile</h1>
 
-<p align="center">
-  
+<p align="center">  
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias-utilizadas">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -28,7 +27,7 @@ O Shake é um app que une a técnica de Pomodoro com a realização de exercíci
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
-### 📎 Pré-requisitos
+## 📎 Pré-requisitos
 
 - Clone o repositório
 - Instale as dependências com `yarn`
